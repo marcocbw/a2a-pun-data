@@ -32,3 +32,5 @@ jobs:
           password: ${{ secrets.FTP_PASS }}
           local-dir: .
           server-dir: /public_html/wp-content/uploads/
+# Aggiunta riga fittizia per forzare commit
+
