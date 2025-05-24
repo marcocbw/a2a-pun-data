@@ -1,0 +1,11 @@
+{
+  "name": "a2a-puppeteer",
+  "version": "1.0.0",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
